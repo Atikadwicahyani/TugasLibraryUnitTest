@@ -1,0 +1,11 @@
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\05 pertemuan 5\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.dll
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\05 pertemuan 5\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.pdb
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\05 pertemuan 5\02 tugas\TugasLibraryUnitTest\bin\Debug\nunit.framework.dll
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\05 pertemuan 5\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibrary.dll
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\05 pertemuan 5\02 tugas\TugasLibraryUnitTest\bin\Debug\TugasLibrary.pdb
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\05 pertemuan 5\02 tugas\TugasLibraryUnitTest\bin\Debug\nunit.framework.xml
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\05 pertemuan 5\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csproj.AssemblyReference.cache
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\05 pertemuan 5\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csproj.CoreCompileInputs.cache
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\05 pertemuan 5\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csproj.CopyComplete
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\05 pertemuan 5\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.dll
+D:\Tugas Sekolah\UNIVERSITAS AMIKOM YOGYAKARTA\semester 3\pempro lanjut\05 pertemuan 5\02 tugas\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.pdb
